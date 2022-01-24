@@ -3,8 +3,14 @@
 A Event Management system - EMS build with Laravel and Vuejs
 
 ### Both FE & BE project folders has own README.md files for installation and run method.
+
+#### Backend:
 ems_backend\README.md \
-ems_frontend\README.md 
+http://localhost:8080/login
+
+#### Frontend:
+ems_frontend\README.md \
+http://localhost:8000/api/...
 
 ## Demo Snapshots 
 # `Database`
