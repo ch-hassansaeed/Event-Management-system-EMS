@@ -7,6 +7,7 @@ use Illuminate\Http\Request;
 use App\Models\Cost;
 use App\Models\Event;
 use App\Models\Sale;
+use App\Models\Ticket;
 use SebastianBergmann\Environment\Console;
 
 class NewEventController extends Controller
@@ -98,8 +99,13 @@ class NewEventController extends Controller
 
     public function deleteEvent($id){
         $event = Event::find($id);
+        $ticket = Ticket::where('event_id', $id)->get();
         $sale = Sale::where('event_id', $id)->get();
         $cost = Cost::where('event_id', $id)->get();
+        
+        foreach($ticket as $t){
+            $t->delete();
+        }
 
         foreach($sale as $s){
             $s->delete();
