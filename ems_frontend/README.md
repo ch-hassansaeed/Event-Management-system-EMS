@@ -25,11 +25,11 @@ npm run serve
 
 ## Test on Browsers
 
-open http://localhost:8080/ and login with seeded user
-username:hassan_saeed@mail.com
-passwrod:ch-hassansaeed
-Or use Postman to call the /register api endpoint to create a new user
-Body Type:form-data
+open http://localhost:8080/ and login with seeded user \
+username:hassan@mail.com \
+passwrod:ch-hassansaeed \
+Or use Postman to call the /register api endpoint to create a new user \
+Body Type:form-data \
 params : name,email,password
 
 # `Postman Snapshot`
