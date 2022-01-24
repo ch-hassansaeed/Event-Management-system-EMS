@@ -25,7 +25,7 @@ ems_frontend\README.md
 ![alt text](create_event_ipad.png)
 # `Event view`
 ![alt text](event_view.png)
-# Edit Event`
+# `Edit Event`
 ![alt text](edit_event.png)
 # `IPAD view`
 ![alt text](edit_event_ipad.png)
