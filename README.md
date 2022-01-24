@@ -12,6 +12,10 @@ http://localhost:8080/login
 ems_frontend\README.md \
 http://localhost:8000/api/...
 
+## Demo video
+https://drive.google.com/file/d/1IVuGEwoxSairIsBUHWxwnJd-f3L4kNDb/view
+
+
 ## Demo Snapshots 
 # `Database`
 ![alt text](DB.png)
