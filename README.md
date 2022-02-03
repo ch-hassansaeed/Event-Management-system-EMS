@@ -4,6 +4,19 @@ A Event Management system - EMS build with Laravel and Vuejs
 
 ### Both FE & BE project folders has own README.md files for installation and run method.
 
+
+## Demo video
+
+**Project Demo Youtube Video :-**
+
+**Beginners Laravel MySql Restful Vue JS Event Management system-Backend 1/2**
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cS5cL9V7gHc/0.jpg)](https://youtu.be/cS5cL9V7gHc)
+
+**Beginners Laravel MySql Restful Vue JS Event Management system-Frontend 2/2**
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bmMfqIM0A2Y/0.jpg)](https://youtu.be/bmMfqIM0A2Y)
+
 #### Backend:
 
 ems_backend\README.md \
@@ -14,9 +27,6 @@ http://localhost:8080/login
 ems_frontend\README.md \
 http://localhost:8000/api/...
 
-## Demo video
-
-https://drive.google.com/file/d/1IVuGEwoxSairIsBUHWxwnJd-f3L4kNDb/view
 
 ## Demo Snapshots
 
